@@ -54,7 +54,7 @@ const menu =[
         id: 6,
         title: "Beans and Dodo",
         price: 1500,
-        img: "./images/beans.jpg",
+        img: "images/beans.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -64,7 +64,7 @@ const menu =[
         id: 7,
         title: "Fisherman Soup",
         price: 5000,
-        img: "./images/fisherman.jpg",
+        img: "/images/fisherman.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -74,7 +74,7 @@ const menu =[
         id: 8,
         title: "Isiewu",
         price: 4000,
-        img: "./images/isiewu.png",
+        img: "../images/isiewu.png",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
