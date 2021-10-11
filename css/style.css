@@ -1,0 +1,71 @@
+
+
+.page-wraper{
+    width: 100v;
+   
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   
+   background-color: coral
+
+   
+}
+.carousel-item {
+    height: 100vh;
+
+    }
+
+    .carousel-item:after {
+        content:"";
+        display:block;
+        position:absolute;
+        top:0;
+        bottom:0;
+        left:0;
+        right:0;
+        background: #000;
+        opacity: 0.5; 
+        color: white;
+        z-index: 1;
+      }
+
+    .carousel-caption{
+        position: absolute;
+        top: 40%;
+        left: 0;
+        right: 0;
+        z-index: 10;
+    }
+
+    .underline{
+        height: 8px;
+       
+       
+    }
+
+    .line-div{
+        width: 100px;
+        margin: 0 auto;
+        border-radius: 10px;
+    }
+
+    /* .content-wraper{
+        margin: 0 auto;
+        background-color: black;
+        color: white;
+        height: ;
+    } */
+
+    .gal body{
+        background-color: black;
+    }
+
+    .card img{
+        height: 300px;
+    }
+
+
+   
+
+    
