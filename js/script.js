@@ -23,7 +23,7 @@ const menu =[
         id: 3,
         title: "Ofada Rice and Stew",
         price:3000,
-        img: "/Images/ofada.jpg",
+        img: "./Images/ofada.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -33,7 +33,7 @@ const menu =[
         id: 4,
         title: "Afang Soup",
         price:3000,
-        img: "/Images/afang.jpg",
+        img: "./Images/afang.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -43,7 +43,7 @@ const menu =[
         id: 5,
         title: "Banger and Starch",
         price: 3000,
-        img: "Images/banger.jpg",
+        img: "./Images/banger.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
         elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
         dolor sit amet consectetur adipisicing`
@@ -53,7 +53,7 @@ const menu =[
         id: 6,
         title: "Beans and Dodo",
         price: 1500,
-        img: "Images/beans.jpg",
+        img: "./Images/beans.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -63,7 +63,7 @@ const menu =[
         id: 7,
         title: "Fisherman Soup",
         price: 5000,
-        img: "Images/fisherman.jpg",
+        img: "./Images/fisherman.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -73,7 +73,7 @@ const menu =[
         id: 8,
         title: "Isiewu",
         price: 4000,
-        img: "Images/isiewu.png",
+        img: "./Images/isiewu.png",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -83,7 +83,7 @@ const menu =[
         id: 9,
         title: "Nkwobi",
         price: 6000,
-        img: "Images/nkwobi.jpg",
+        img: "./Images/nkwobi.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -93,7 +93,7 @@ const menu =[
         id: 10,
         title: "Jollof Rice",
         price:3000,
-        img: "Images/jollof.jpg",
+        img: "./Images/jollof.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
