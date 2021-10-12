@@ -3,7 +3,7 @@ const menu =[
      id: 1,
      title: "Edikainkong",
      price:3500,
-     img: "Images/edikangikong.jpg",
+     img: "./Images/edikangikong.jpg",
      info: `Edikang Ikong Soup is a highly nutritious, delicious and 
             savory vegetable soup natively prepared using ‘ugwu’ and Malabar 
             spinach (locally called water leaf in Nigeria).`  
@@ -13,7 +13,7 @@ const menu =[
         id: 2,
         title: "Amala and Ewedu",
         price:2500,
-        img: "Images/amala.jpg",
+        img: "./Images/amala.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -23,7 +23,7 @@ const menu =[
         id: 3,
         title: "Ofada Rice and Stew",
         price:3000,
-        img: "Images/ofada.jpg",
+        img: "/Images/ofada.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -33,7 +33,7 @@ const menu =[
         id: 4,
         title: "Afang Soup",
         price:3000,
-        img: "Images/afang.jpg",
+        img: "/Images/afang.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -103,7 +103,7 @@ const menu =[
         id: 11,
         title: "Okro Soup",
         price: 2800,
-        img: "Images/okro.jpg",
+        img: "./Images/okro.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
@@ -113,7 +113,7 @@ const menu =[
         id: 12,
         title: "Pepper Soup",
         price:2900,
-        img: "Images/pepperSoup.jpg",
+        img: "./Images/pepperSoup.jpg",
         info: `Lorem ipsum dolor sit amet consectetur adipisicing 
                 elit. Dignissimos,  Dignissimos, totam? Lorem ipsum 
                 dolor sit amet consectetur adipisicing`
